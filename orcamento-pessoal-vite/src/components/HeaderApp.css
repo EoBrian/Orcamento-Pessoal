@@ -1,0 +1,31 @@
+.header-app {
+  background-color: #00a2ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-app a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-app .logo{
+  font-size: 1.5em;
+  padding: 10px;
+}
+
+
+.nav-link .icon {
+  width: 50px;
+  margin-top: 20px;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-app {
+  text-align: center;
+  background-color: aliceblue;
+  padding: 20px;
+}

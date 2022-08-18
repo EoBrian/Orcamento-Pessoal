@@ -1,0 +1,8 @@
+table {
+  width: 95%;  
+  margin: 0 auto;
+}
+
+table tbody td{
+  padding: 10px 0;
+}

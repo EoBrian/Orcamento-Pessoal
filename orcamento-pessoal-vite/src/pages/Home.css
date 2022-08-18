@@ -1,0 +1,35 @@
+.fields {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+}
+
+.fields div {
+  padding-left: 10px;
+}
+
+.title {
+  border: 3px solid #ccc;
+  padding: 20px;
+}
+.container {
+  margin: 40px auto;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .fields {
+    display: block;
+  }
+
+  input, select{
+    display: block;
+    width: 100%;
+  }
+}
+
